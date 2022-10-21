@@ -1,5 +1,5 @@
 # Sign-language-recognition
-This project aims to reduce the time and space complexity of existing sign language recognigiton models using Mediapipe and LSTM library
+This project aims to reduce the time and space complexity of existing sign language recognigiton models using Mediapipe library and LSTM Neural Network
 
 ![image](https://user-images.githubusercontent.com/70934463/164949983-5e404096-1ac4-469d-88b6-ab078d20cf6b.png)
 ![image](https://user-images.githubusercontent.com/70934463/164950030-58894fcd-b15d-4886-ad7c-de43e20276c9.png)
